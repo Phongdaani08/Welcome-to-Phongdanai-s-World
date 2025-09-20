@@ -1,28 +1,25 @@
 # Personal Portfolio Website
-
-This repository contains the source code and files for my personal portfolio website.  
-The website is built using **HTML, CSS, and JavaScript**.
+โปรเจกต์นี้เก็บ **โค้ดและไฟล์ของเว็บไซต์แนะนำตัวเอง**  
+เว็บไซต์สร้างด้วย **HTML, CSS และ JavaScript**
 
 ## Description
-The personal portfolio website showcases my skills, projects, and experiences as a web developer.  
-It serves as an online platform to highlight my work and provide information about my background and expertise.
+เว็บไซต์แนะนำตัวเองนี้ใช้แสดง **ทักษะ, โปรเจกต์ และประสบการณ์** ของผู้พัฒนา  
+เป็นแพลตฟอร์มออนไลน์เพื่อแสดงผลงานและข้อมูลพื้นฐานเกี่ยวกับตัวผู้พัฒนา
 
 ## Features
-- **Home**: Introduces myself and provides a brief overview of my skills and interests.
-- **About**: Details my professional background, education, and relevant experience.
-- **Projects**: Showcases the projects I have worked on, including descriptions, screenshots, and links to live demos or repositories.
-- **Skills**: Lists the programming languages, frameworks, and tools I am proficient in.
-- **Contact**: Offers various ways to get in touch with me, such as through email, social media, or a contact form.
+- **Home**: แนะนำตัวเองและให้ภาพรวมเกี่ยวกับทักษะและความสนใจ
+- **About**: ระบุประวัติการศึกษา 
+- **Projects**: แสดงโปรเจกต์ที่เคยทำ พร้อมคำอธิบาย รูปภาพ และลิงก์ไปยัง Demo หรือ Repository
+- **Skills**: แสดงรายการภาษาการเขียนโปรแกรม เฟรมเวิร์ก และเครื่องมือที่เชี่ยวชาญ 
+- **Contact**:  ช่องทางการติดต่อ เช่น อีเมล โซเชียลมีเดีย หรือฟอร์มติดต่อ
 
 ## Technologies Used
-- **HTML**: Markup language used for structuring the website.
-- **CSS**: Stylesheet language used for designing and formatting the website.
-- **JavaScript**: Programming language used for adding interactivity and dynamic features.
-
+- **HTML**: ใช้สร้างโครงสร้างของหน้าเว็บ  
+- **CSS**: ใช้ตกแต่งและจัดรูปแบบหน้าเว็บ  
+- **JavaScript**: เพิ่มความโต้ตอบและฟีเจอร์แบบไดนามิก
+- 
 ## Getting Started
-To view the website locally or make modifications, follow these steps:
+เพื่อดูเว็บไซต์หรือแก้ไขโค้ด สามารถทำตามขั้นตอนนี้:
 
-1. Clone the repository:  
-   ```bash
-   git clone [repository URL]
+<img width="1908" height="722" alt="Screenshot 2025-09-20 214439" src="https://github.com/user-attachments/assets/5dfd1c8f-9ab2-4abf-b512-682cbecddfd0" />
 
